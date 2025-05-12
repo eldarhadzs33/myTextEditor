@@ -1,0 +1,4 @@
+I have learned about raw vs canonical mode
+
+canonical mode buffers input every line, meaning that after i hit enter, it only then processes the input
+whereas in raw mod, buffer processes immediately every char
